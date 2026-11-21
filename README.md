@@ -27,10 +27,10 @@ Program ini menggunakan lima komponen utama GUI, yaitu:
 
 ### 1. Form Pembelian Buket
 
-![Form Pembelian Buket](form_buket.png)
+![Form Pembelian Buket](form%20buket.png)
 
 ### 2. Pesanan Berhasil
 
-![Pesanan Berhasil](pesanan_berhasil.png)
+![Pesanan Berhasil](pesanan%20berhasil.png)
 
 **Dibuat menggunakan Java Swing**
